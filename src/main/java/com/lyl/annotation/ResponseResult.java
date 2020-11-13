@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
  * @author 【 木子雷 】 公众号
  * @PACKAGE_NAME: com.lyl.annotation
  * @ClassName: ResponseResult
- * @Description: 标记方法返回值需要进行包装的 自定义注解
+ * @Description: 标记方法返回值需要进行包装 的自定义注解
  * @Date: 2020-11-10 10:38
  **/
 @Target({ElementType.TYPE, ElementType.METHOD})

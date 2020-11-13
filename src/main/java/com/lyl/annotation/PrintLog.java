@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
  * @Author: 【 木子雷 】 公众号
  * @PACKAGE_NAME: com.lyl.annotation
  * @ClassName: PrintLog
- * @Description: 自定义注解实现日志打印
+ * @Description: 进行日志打印 的自定义注解
  * @Date: 2020-11-10 18:05
  **/
 @Target(ElementType.METHOD)

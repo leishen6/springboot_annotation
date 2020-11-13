@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
  * @author 【 木子雷 】 公众号
  * @PACKAGE_NAME: com.lyl.annotation
  * @ClassName: GetDistributedLock
- * @Description: 获取redis分布式锁 注解
+ * @Description: 使用redis分布式锁 的自定义注解
  * @Date: 2020-11-10 16:24
  **/
 @Target(ElementType.METHOD)
